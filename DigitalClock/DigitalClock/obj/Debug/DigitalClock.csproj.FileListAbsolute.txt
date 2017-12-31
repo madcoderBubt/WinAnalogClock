@@ -1,0 +1,30 @@
+c:\users\sudhananda biswas\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+c:\users\sudhananda biswas\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+c:\users\sudhananda biswas\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+c:\users\sudhananda biswas\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojResolveAssemblyReference.cache
+c:\users\sudhananda biswas\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+c:\users\sudhananda biswas\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+c:\users\sudhananda biswas\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.Cache
+c:\users\sudhananda biswas\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+c:\users\sudhananda biswas\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
+C:\Users\Sudhananda Biswas\Documents\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.AnalogClock.resources
+N:\back up\document\Visual Studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+N:\back up\document\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+N:\back up\document\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
+N:\back up\document\Visual Studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+N:\back up\document\Visual Studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+N:\back up\document\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojResolveAssemblyReference.cache
+N:\back up\document\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.AnalogClock.resources
+N:\back up\document\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+N:\back up\document\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+N:\back up\document\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.Cache
+H:\sudhananda\GitHub(sudhanandabiswas)\Software\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+H:\sudhananda\GitHub(sudhanandabiswas)\Software\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+H:\sudhananda\GitHub(sudhanandabiswas)\Software\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
+H:\sudhananda\GitHub(sudhanandabiswas)\Software\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+H:\sudhananda\GitHub(sudhanandabiswas)\Software\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+H:\sudhananda\GitHub(sudhanandabiswas)\Software\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojResolveAssemblyReference.cache
+H:\sudhananda\GitHub(sudhanandabiswas)\Software\DigitalClock\DigitalClock\obj\Debug\DigitalClock.AnalogClock.resources
+H:\sudhananda\GitHub(sudhanandabiswas)\Software\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+H:\sudhananda\GitHub(sudhanandabiswas)\Software\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+H:\sudhananda\GitHub(sudhanandabiswas)\Software\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.Cache
